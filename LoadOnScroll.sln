@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadOnScroll", "LoadOnScroll\LoadOnScroll.csproj", "{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}.Release|iPhone.Build.0 = Release|iPhone
+		{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A06D3130-3B2A-48F4-A1DE-1AEAED6DEB38}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
